@@ -18,7 +18,6 @@ export default function Home() {
       <Projects />
       <Contact />
       <Footer />
-      <p>hi</p>
     </>
   );
 }
