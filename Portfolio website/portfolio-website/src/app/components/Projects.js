@@ -7,8 +7,8 @@ export default function Projects() {
         description: 'A full CRM system with Next.js and Swagger API integration.',
       },
       {
-        title: 'Pickle Sale Platform',
-        description: 'A beautifully designed food pickle sales platform with payment integration.',
+        title: 'Java ATM application',
+        description: 'Integration of ATM interface with logic.',
       },
     ];
   

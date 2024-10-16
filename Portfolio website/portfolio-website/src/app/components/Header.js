@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <header className="fixed w-full bg-gradient-to-r from-rose-200 to-gray-200 shadow-lg ">
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
-        <h1 className="text-2xl font-bold">Your Name</h1>
+        <h1 className="text-2xl font-bold">DEPURI NAVEEN</h1>
         <div className="md:hidden">
           <button onClick={toggleMenu} className="text-black focus:outline-none">
             {isOpen ? <X size={24} /> : <Menu size={24} />}
