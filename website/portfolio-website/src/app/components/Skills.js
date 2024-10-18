@@ -27,7 +27,7 @@ export default function Skills() {
   const skills = [
     {
       title: 'React',
-      icon: '/images/icons/createreactapp.svg'
+      icon: '/images/icons/createreactapp.jpg'
     },
     {
       title: 'Next.js',
@@ -35,19 +35,19 @@ export default function Skills() {
     },
     {
       title: 'Node.js',
-      icon: '/images/icons/nodedotjs.svg'
+      icon: '/images/icons/nodedotjs.jpg'
     },
     {
       title: 'Python',
-      icon: '/images/icons/python.svg'
+      icon: '/images/icons/python.jpg'
     },
     {
       title: 'JavaScript',
-      icon: '/images/icons/javascript.svg'
+      icon: '/images/icons/javascript.jpg'
     },
     {
       title: 'Tailwind CSS',
-      icon: '/images/icons/tailwindcss.svg'
+      icon: '/images/icons/tailwindcss.jpg'
     },
 
   ]
