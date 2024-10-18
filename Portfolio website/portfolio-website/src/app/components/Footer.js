@@ -15,11 +15,11 @@ export default function Footer() {
         </div>
         <div className="flex flex-row items-center space-x-2">
         <LucideUnlockKeyhole size={20} />
-          <a href="#">Linkdein</a>
+          <a href="https://www.linkedin.com/in/depuri-naveen">Linkdein</a>
         </div>
         <div className="flex flex-row items-center space-x-2">
         <GitBranchIcon size={20} />
-          <a a href="#">Git hub</a>
+          <a a href="https://github.com/DNS9347"  target="_blank" rel="noopener noreferrer">github</a>
         </div>
 
         </div>
