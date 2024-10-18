@@ -31,7 +31,7 @@ export default function Skills() {
     },
     {
       title: 'Next.js',
-      icon: '/images/icons/nextdotjs.svg'
+      icon: '/images/icons/nextdotjs.jpg'
     },
     {
       title: 'Node.js',
